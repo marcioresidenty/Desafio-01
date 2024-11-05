@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\1310227\Desktop\Projetos\Dio Projeto Ri Happy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+703820294.index
+2987446416.index
+2568874309.index
+2364735365.index
+198046703.index
+3075841734.index
